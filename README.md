@@ -47,9 +47,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithulab&show_icons=true&locale=en&layout=compact" alt="jithulab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithulab&show_icons=true&locale=en" alt="jithulab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethindusl&show_icons=true&locale=en" alt="jithulab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithulab&" alt="jithulab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="jithulab" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/nethindu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhasithajs" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/nethindu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nethindusl" /></a></p><br><br>

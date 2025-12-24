@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nethindu Thaminda </h1>
 <h3 align="center">A good coder from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethindusl&label=Profile%20views&color=0e75b6&style=flat" alt="nethindu " /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethindusl&label=Profile%20views&color=0e75b6&style=flat" alt="nethindu " /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethindusl" alt="nethindu" /></a> </p>
+<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
 - 🌱 I’m currently learning **Python and HTML**
 

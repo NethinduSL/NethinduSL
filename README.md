@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nethindu Thaminda </h1>
-<h3 align="center">A good coder from Sri Lanka.</h3>
+<h3 align="center">A noob coder from Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethindusl&label=Profile%20views&color=0e75b6&style=flat" alt="nethindu " /> </p>
 
 <img width="140" align="center" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
-- 🌱 I’m currently learning **Python and HTML**
+- 🌱 I’m currently learning **Node js andWeb 3 languages**
 
 - 👨‍💻 All of my projects are available at [www.ebox.free.nf](www.ebox.free.nf)
 

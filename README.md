@@ -45,9 +45,6 @@
 <a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethindusl&show_icons=true&locale=en&layout=compact" alt="nethindusl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethindusl&show_icons=true&locale=en" alt="nethinds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethindusl&" alt="nethindusl" /></p>
 

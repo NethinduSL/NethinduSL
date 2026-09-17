@@ -16,7 +16,7 @@
 
 - 🔭 Half of **Bit X** — a two-person dev duo with **Jithula**, building full-stack platforms and games
 - 🌱 Currently learning **Node.js** and **Web3** languages
-- 👨‍💻 All my projects are available at [eboxsl.vercel.app](https://eboxsl.vercel.app)
+- 👨‍💻 All my projects are available at [bitxsl.vercel.app/projects](https://bitxsl.vercel.app/projects.html)
 - 🎮 Into multiplayer games — I build them almost as much as I play them
 - ✨ Big on interactive UI details — custom cursors, particle effects, parallax, and the occasional roaming mascot
 - 📫 Reach me at **eboxsl@hotmail.com**
@@ -26,17 +26,22 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛒 **[Bit X Tools](https://bit-x-tools.vercel.app)** | Node/Express + MongoDB Atlas platform — media downloader, multi-model AI chat, AI text detector |
-| ⚡ **Bit X APIs** | Backend powering 13+ AI models used across the Bit X ecosystem |
-| 🏝️ **Vortex Islands** | Multiplayer browser game — RPS-based island combat with a zoomable sea world |
-| 🕹️ **Yali Trip** | 2D side-scrolling platformer in Phaser 3, with a custom companion map editor |
-| 💻 **E OS** | A web-based OS styled after Windows 11, with a Matrix-mode easter egg |
-| 😂 **Slmemesx** | Sri Lanka-themed meme social platform — vanilla HTML/CSS/JS + Supabase |
-| 📖 **AL Helper** | Single-file study hub for Sri Lankan A/L students — 150+ links, live search |
-| 🎓 **CS Maths Academy Portal** | Glassmorphism student portal redesign with Chart.js analytics |
-| 🧠 **Buthaya** | A 20-questions mind-reading game with a deep decision tree, powered by Claude |
+| Project | Year | Description |
+|---|---|---|
+| 🏠 **[Main Site](https://bitxsl.vercel.app/)** | 2025 | The official home of Bit X — who we are, what we build, where we're headed |
+| ⚡ **[Bit X APIs](https://bit-x-apis.vercel.app/)** | 2024 | Central API hub powering the Bit X ecosystem — fast, reliable endpoints for integrations |
+| 🔧 **[Bit X Tools](https://bitxtools.vercel.app/)** | 2026 | A growing collection of handy web tools — utilities without the bloat |
+| 🖼️ **[SINGFIG](https://singfig.vercel.app/)** | 2025 | Sinhala font image generator — render Sinhala text as shareable images |
+| 🤖 **[Elixa AI](https://elixa-ai.vercel.app/)** | 2024 | One gateway to 15 AI models — no more tab-switching between chat apps |
+| ⚔️ **[Exile Clash](https://exileclash.vercel.app/)** | 2026 | Web strategy game inspired by the Sinhala folklore tale *Dhupath Sellama* |
+| 🛒 **[Bit X Stuff](https://bit-x-stuffs.lovable.app/)** | 2026 | Premium account marketplace for the Bit X community — clean, trustworthy trading |
+| 📦 **[Ebox SL](https://Eboxsl.vercel.app/)** | 2025 | Landing platform to organize, share, and manage digital content |
+| 🗄️ **[Ebox DB](https://Eboxdb.vercel.app/)** | 2024 | Database interface behind Ebox — built for speed and reliability |
+| 😂 **[Memesx SL](https://memesx.vercel.app/)** | 2026 | Sri Lanka's Sinhala meme-sharing platform |
+| 👤 **[Nethindu Portfolio](https://nethindu.vercel.app/)** | 2022 | Personal portfolio — projects, skills, and creative work |
+| ⌨️ **[Terminal](https://eterminal123.vercel.app/)** | 2022 | A browser-based terminal built purely for fun — easter eggs included |
+
+<sub>All live · built from scratch by **Nethindu & Jithula**</sub>
 
 ---
 
